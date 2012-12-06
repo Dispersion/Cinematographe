@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cinematographe", "Cinematographe.vcxproj", "{3C465B07-3A3C-42EE-98B2-666004F5CA32}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D82CB4C4-B25B-401B-9D53-47F5B9820A7D} = {D82CB4C4-B25B-401B-9D53-47F5B9820A7D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LumiereRenderer", "..\..\..\LumiereRenderer\build\vs2010\LumiereRenderer.vcxproj", "{D82CB4C4-B25B-401B-9D53-47F5B9820A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C465B07-3A3C-42EE-98B2-666004F5CA32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C465B07-3A3C-42EE-98B2-666004F5CA32}.Debug|Win32.Build.0 = Debug|Win32
+		{3C465B07-3A3C-42EE-98B2-666004F5CA32}.Release|Win32.ActiveCfg = Release|Win32
+		{3C465B07-3A3C-42EE-98B2-666004F5CA32}.Release|Win32.Build.0 = Release|Win32
+		{D82CB4C4-B25B-401B-9D53-47F5B9820A7D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D82CB4C4-B25B-401B-9D53-47F5B9820A7D}.Debug|Win32.Build.0 = Debug|Win32
+		{D82CB4C4-B25B-401B-9D53-47F5B9820A7D}.Release|Win32.ActiveCfg = Release|Win32
+		{D82CB4C4-B25B-401B-9D53-47F5B9820A7D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

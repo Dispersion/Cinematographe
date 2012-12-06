@@ -1,0 +1,18 @@
+# Visual studio files #
+#######################
+*.exe
+*.res
+*.rc
+*.ipch
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.user
+*.log
+*.tlog
+*.lastbuildstate
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.manifest

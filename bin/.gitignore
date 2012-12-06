@@ -1,0 +1,5 @@
+# Visual studio files #
+#######################
+*.exe
+*.pdb
+*.ilk
